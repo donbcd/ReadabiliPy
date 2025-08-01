@@ -1,5 +1,8 @@
 # Change Log
 
+## Version 0.4.0
+* Fixed finding npm on windows
+
 ## Version 0.3.0
 * Fixed some bugs. Updated supported Python versions.
 
